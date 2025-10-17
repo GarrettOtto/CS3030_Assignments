@@ -1,0 +1,3 @@
+My work involves launching and troubleshooting websites, which is why I wanted to check for valid SSL certificates. This SSL certificate script could actually help me or the support team when trying to figure out what is wrong with a website.
+
+I did not know where exactly to start with this, so I heavily relied on Gemini for this learning activity. The biggest thing that I learned was to definitely ask AI to help me incrementally. At the beginning, I was overwhelmed with how much was provided to me. After asking for it step-by-step, it was much easier to understand and implement. I ended up asking AI a lot of follow-up questions so I could fully understand all the code and know how it works as I went through the program and incrementally coded the entire thing.
